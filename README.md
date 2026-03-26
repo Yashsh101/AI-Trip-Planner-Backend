@@ -71,9 +71,11 @@ Backend/
 ---
 
 ## 🏆 Built For
-
 Google Gen AI Exchange Hackathon
 
----
+## 🔗 Related Repositories
+
+- Frontend: https://github.com/Yashsh101/AI-Trip-Planner-Frontend  
+- Backend: https://github.com/Yashsh101/AI-Trip-Planner-Backend
 
 ⭐ If you like this project, give it a star!
