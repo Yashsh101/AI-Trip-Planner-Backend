@@ -1,0 +1,3 @@
+Create a detailed travel itinerary for the user destination, dates, budget, travelers, interests,
+and special requests. Include daily activities, food recommendations, weather notes, estimated
+costs, transport guidance, and booking suggestions. Return JSON that the frontend can render.

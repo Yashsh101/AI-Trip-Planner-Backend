@@ -1,0 +1,422 @@
+[
+  {
+    "id": "tokyo-attractions-001",
+    "destination": "Tokyo, Japan",
+    "category": "attractions",
+    "content": "Senso-ji in Asakusa is Tokyo's oldest Buddhist temple and is best visited before 9am, when Nakamise-dori is still calm and the incense burner is not crowded. The Kaminarimon gate, Hozomon gate, five-story pagoda, and main hall are free to enter, though small coins are useful for omikuji fortunes. Asakusa Station is served by the Ginza, Asakusa, and Tobu lines. A good local rhythm is to visit the temple first, snack on ningyo-yaki or melon pan after shops open, then walk west toward Kappabashi for kitchenware."
+  },
+  {
+    "id": "tokyo-attractions-002",
+    "destination": "Tokyo, Japan",
+    "category": "attractions",
+    "content": "Meiji Jingu sits inside a dense forest beside Harajuku Station, making it one of the easiest quiet breaks in central Tokyo. Entry is free, but the inner garden usually charges a small fee and is most rewarding during iris season in June. The walk from the torii gate to the shrine takes about 10 minutes on gravel paths, so comfortable shoes matter. Visit on a weekend morning and you may see a Shinto wedding procession, but keep distance and avoid blocking photographers or shrine staff."
+  },
+  {
+    "id": "tokyo-food-001",
+    "destination": "Tokyo, Japan",
+    "category": "food",
+    "content": "Tsukiji Outer Market remains public after the wholesale auction moved to Toyosu. Many stalls open around 5am and start winding down after lunch, with Wednesday and Sunday closures common, so check before going. Bring cash for small vendors and eat while standing only where the stall permits it. A practical breakfast is tamagoyaki, grilled scallops, and a small seafood bowl, often costing USD 12 to 25 depending on toppings. Tsukiji Station on the Hibiya Line is the simplest access point."
+  },
+  {
+    "id": "tokyo-food-002",
+    "destination": "Tokyo, Japan",
+    "category": "food",
+    "content": "Omoide Yokocho near Shinjuku Station is a compact alley network known for yakitori counters, stewed motsu, beer, and tiny bars with only a handful of seats. Most places add a small seating charge or require one drink, and smoke is common. Go before 6:30pm to avoid the longest waits, especially with a group. English menus exist in some shops, but pointing at skewers is normal. Budget travelers can eat well with grilled chicken skewers, cabbage, and a drink for about USD 15 to 25."
+  },
+  {
+    "id": "tokyo-transport-001",
+    "destination": "Tokyo, Japan",
+    "category": "transport",
+    "content": "Tokyo is easiest with an IC card such as Suica or Pasmo, now commonly added to Apple Wallet for visitors. JR lines, Tokyo Metro, Toei Subway, buses, lockers, and many convenience stores accept the same balance. Avoid rush hour between 7:30 and 9:30am on major commuter lines if carrying luggage. Station exits matter: Shinjuku and Tokyo Station can add 15 minutes if you choose the wrong side. Google Maps is reliable, but always check platform numbers and train type, because local, rapid, and express services may skip stops."
+  },
+  {
+    "id": "tokyo-culture-001",
+    "destination": "Tokyo, Japan",
+    "category": "culture",
+    "content": "Tokyo etiquette is quiet, precise, and queue-oriented. Stand on the left side of escalators in most of Tokyo, keep phone calls off trains, and carry trash until you find a convenience store bin or station bin. At temples, rinse hands lightly at the purification basin if it is open, bow before shrine gates, and do not photograph restricted inner areas. Cash remains useful for older restaurants, markets, and neighborhood bathhouses. The best local habit is planning one anchor activity per district instead of crossing the city repeatedly."
+  },
+  {
+    "id": "paris-attractions-001",
+    "destination": "Paris, France",
+    "category": "attractions",
+    "content": "The Louvre is strongest with a timed reservation and a focused plan, because the building is too large for a casual full visit. Entering through the Carrousel du Louvre mall can be calmer than the Pyramid at peak times. Choose one route such as Denon for the Mona Lisa and Winged Victory, or Richelieu for Napoleon III apartments and sculpture courts. Wednesday and Friday evening hours, when available, are often more comfortable. Budget at least three hours and keep bags small because security lines slow down with luggage."
+  },
+  {
+    "id": "paris-attractions-002",
+    "destination": "Paris, France",
+    "category": "attractions",
+    "content": "Sainte-Chapelle on Ile de la Cite is a compact Gothic chapel famous for stained glass that is most luminous on sunny mornings or late afternoons. Timed tickets reduce waiting, and combined tickets with the Conciergerie can make sense for history-focused travelers. Security is airport-style because the chapel sits inside the Palais de Justice complex, so avoid knives, large bags, and tight transfer plans. The visit itself can be under an hour, making it easy to combine with Notre-Dame exterior views and a walk along the Seine."
+  },
+  {
+    "id": "paris-food-001",
+    "destination": "Paris, France",
+    "category": "food",
+    "content": "Rue des Martyrs in the 9th arrondissement is a practical food street for assembling a picnic without paying restaurant prices. Bakeries, cheese shops, fruit stalls, chocolate shops, and traiteurs sit close together, and many are best before lunchtime. Ask for small portions politely and remember that produce is usually selected by the vendor, not handled by customers. A baguette, two cheeses, fruit, and pastries can make a strong meal for USD 15 to 25 per person. Walk uphill toward Montmartre after shopping."
+  },
+  {
+    "id": "paris-food-002",
+    "destination": "Paris, France",
+    "category": "food",
+    "content": "Bouillon restaurants such as Bouillon Chartier or Bouillon Republique are useful for classic French dishes at predictable prices. They serve fast, turn tables quickly, and are popular with locals and visitors, so queues move better than they look. Expect dishes like oeufs mayonnaise, confit de canard, steak frites, leeks vinaigrette, and profiteroles. Reservations are limited or not always necessary, but off-peak hours help. The format is loud and efficient rather than romantic, ideal for budget and mid-range travelers wanting traditional food without a long tasting menu."
+  },
+  {
+    "id": "paris-transport-001",
+    "destination": "Paris, France",
+    "category": "transport",
+    "content": "Paris Metro is dense and usually faster than taxis inside the city. Buy a Navigo Easy card and load t+ tickets, or use contactless options where supported. Keep tickets until exiting because inspections are common, and watch for pickpockets around crowded Line 1, Line 4, Gare du Nord, and tourist stations. Transfers can involve stairs, so travelers with luggage should check accessibility before choosing a route. Walking between nearby neighborhoods is often nicer than making short Metro hops, especially around the Marais, Latin Quarter, and Saint-Germain."
+  },
+  {
+    "id": "paris-culture-001",
+    "destination": "Paris, France",
+    "category": "culture",
+    "content": "A simple bonjour before asking for anything changes the tone of most Paris interactions. In bakeries and cafes, greet staff, order clearly, and say merci or bonne journee when leaving. Restaurants often serve lunch roughly from noon to 2pm and dinner from 7pm onward, with many kitchens closed between. Tipping is modest because service is included; rounding up or leaving a few euros is appreciated for good service. Dress is not formal, but tidy shoes and layers help you blend in better than athletic vacation outfits."
+  },
+  {
+    "id": "bali-attractions-001",
+    "destination": "Bali, Indonesia",
+    "category": "attractions",
+    "content": "Tegallalang Rice Terrace north of Ubud is busiest from mid-morning onward, so sunrise or early morning gives cooler weather and cleaner paths. Many viewpoints and swings are privately managed, so small entrance or photo fees are normal. Wear shoes with grip because the terraces become slippery after rain, and carry small rupiah notes. Pair it with nearby coffee farms only if you are comfortable with the animal tourism practices advertised there. Hiring a driver for half a day is easier than relying on ride-hailing in rural stretches."
+  },
+  {
+    "id": "bali-attractions-002",
+    "destination": "Bali, Indonesia",
+    "category": "attractions",
+    "content": "Uluwatu Temple sits on cliffs above the Indian Ocean and is most dramatic near sunset, when the kecak dance amphitheater fills quickly. Buy dance tickets early on arrival if it is a priority. Monkeys here are skilled at grabbing glasses, phones, hats, and loose bags, so store everything before walking near the railings. Sarongs are provided for temple entry, but shoulders and respectful clothing still matter. Traffic back toward Seminyak or Canggu can be heavy after sunset, so plan dinner nearby or accept a slow return."
+  },
+  {
+    "id": "bali-food-001",
+    "destination": "Bali, Indonesia",
+    "category": "food",
+    "content": "Warungs are the best way to eat Balinese food without resort pricing. Look for busy local places serving nasi campur, ayam betutu, lawar, satay lilit, and vegetable urap. A filling plate can cost USD 2 to 6, while tourist-cafe versions cost several times more. Ask about spice level because sambal can be intense. In Ubud, smaller family-run warungs away from the Monkey Forest strip are better value. Cash is useful, and bottled or filtered water is safer than tap water for most visitors."
+  },
+  {
+    "id": "bali-food-002",
+    "destination": "Bali, Indonesia",
+    "category": "food",
+    "content": "Jimbaran seafood dinners are built around beachfront grills where diners choose fish, prawns, squid, or clams by weight. Prices vary widely, so confirm the per-kilogram price before ordering and avoid vague bundles. Sunset tables are popular, but the food is often better if you arrive a little earlier and choose a busy stall with high turnover. Expect sambal, rice, vegetables, and grilled seafood rather than fine dining precision. It is atmospheric for couples and groups, but budget travelers should share dishes and check the bill carefully."
+  },
+  {
+    "id": "bali-transport-001",
+    "destination": "Bali, Indonesia",
+    "category": "transport",
+    "content": "Bali has limited public transport for visitor routes, so most itineraries rely on private drivers, scooters, or ride-hailing apps such as Grab and Gojek. Scooters are efficient but risky without local riding experience, proper helmets, and international driving permits. Traffic between Canggu, Seminyak, Kuta, and Ubud is often slower than maps predict, especially before sunset. For temple and waterfall days, a full-day driver is usually better value than many point-to-point rides. Build plans by region rather than crossing the island several times."
+  },
+  {
+    "id": "bali-culture-001",
+    "destination": "Bali, Indonesia",
+    "category": "culture",
+    "content": "Balinese temples require covered shoulders and a sarong or sash, even for quick photo stops. Do not step on daily offerings placed on sidewalks and entrances, and avoid standing higher than priests during ceremonies. If a procession blocks traffic, wait calmly; ceremonies are part of daily life, not a performance. Menstruating visitors are traditionally asked not to enter temple grounds. The most respectful trips leave time for delays, dress modestly outside beach clubs, and treat village areas as lived neighborhoods rather than photo sets."
+  },
+  {
+    "id": "nyc-attractions-001",
+    "destination": "New York City, USA",
+    "category": "attractions",
+    "content": "The Metropolitan Museum of Art rewards a targeted visit. Enter when it opens, choose two or three departments such as Egyptian Art, European Paintings, and the American Wing, and leave before museum fatigue takes over. The rooftop garden, when open seasonally, gives a strong Central Park view. Suggested admission is only for New York State residents and some regional students; most visitors pay the posted price. The museum sits on Fifth Avenue, and the 4/5/6 subway to 86th Street leaves a pleasant walk across the Upper East Side."
+  },
+  {
+    "id": "nyc-attractions-002",
+    "destination": "New York City, USA",
+    "category": "attractions",
+    "content": "The Staten Island Ferry is a free 25-minute ride with open views of Lower Manhattan, New York Harbor, and the Statue of Liberty. It runs day and night, but golden hour gives the best skyline light. Board on the right side leaving Manhattan for Statue of Liberty views and avoid rush-hour commuter crush if you want space. You must disembark at Staten Island and re-board for the return. It is not a replacement for Liberty Island access, but it is one of the city's best no-cost viewpoints."
+  },
+  {
+    "id": "nyc-food-001",
+    "destination": "New York City, USA",
+    "category": "food",
+    "content": "A classic New York slice is best eaten fresh from a busy counter, not ordered as delivery across town. Look for plain cheese slices with a crisp underside, reheated quickly in the deck oven, and served on paper plates. Joe's, Scarr's, L'Industrie, and neighborhood slice shops all work depending on location. A slice usually costs USD 3 to 6. Fold it lengthwise if eating while walking, but avoid blocking the counter. Pair slice stops with neighborhood walks rather than making pizza the only reason to cross boroughs."
+  },
+  {
+    "id": "nyc-food-002",
+    "destination": "New York City, USA",
+    "category": "food",
+    "content": "Queens is the most efficient borough for food variety. Jackson Heights has Nepali momos, Tibetan noodles, Colombian bakeries, Indian sweets, and Mexican carts within a few blocks of the Roosevelt Avenue subway hub. Go with small cash bills and share several snacks instead of committing to one large meal. Weekends are lively but crowded. The 7 train makes the area easy from Midtown, and nearby Elmhurst adds Thai, Indonesian, and Chinese options. This is better for curious eaters than travelers wanting polished service."
+  },
+  {
+    "id": "nyc-transport-001",
+    "destination": "New York City, USA",
+    "category": "transport",
+    "content": "The subway is the backbone of New York travel and accepts contactless cards or phones through OMNY. Tap the same card or device each ride to count toward fare caps. Express trains skip stops, so check whether your station has a white or black dot on the map and listen for service changes. Late-night trains can run less frequently, and some weekend lines reroute for maintenance. Taxis and ride-hailing slow down in Midtown traffic; for most trips below 110th Street, walking plus subway is faster."
+  },
+  {
+    "id": "nyc-culture-001",
+    "destination": "New York City, USA",
+    "category": "culture",
+    "content": "New York moves quickly, but directness is not usually rudeness. Step aside before checking maps, keep right on stairs, and let passengers exit trains before boarding. Restaurant tipping is expected, often 18 to 22 percent before tax for table service, while counter service prompts are optional. Sidewalks function like roads, so avoid stopping in the middle of a busy block. The city is safest when you stay aware of surroundings, choose well-lit late-night routes, and trust a different subway car if one feels uncomfortable."
+  },
+  {
+    "id": "bangkok-attractions-001",
+    "destination": "Bangkok, Thailand",
+    "category": "attractions",
+    "content": "The Grand Palace and Wat Phra Kaew require modest dress: shoulders and knees covered, no tight leggings as a substitute, and proper shoes are helpful in heat. Arrive near opening to reduce crowds and sun exposure. Tickets are comparatively expensive for Thailand, so allow time for the murals, courtyards, and Emerald Buddha temple rather than rushing. Ignore anyone outside saying the palace is closed; common scams redirect visitors to gem shops or paid tours. Combine the palace with Wat Pho, which is nearby and easier to enjoy at a slower pace."
+  },
+  {
+    "id": "bangkok-attractions-002",
+    "destination": "Bangkok, Thailand",
+    "category": "attractions",
+    "content": "Wat Arun is best viewed from across the Chao Phraya River near sunset, then visited by ferry for close-up ceramic details on the central prang. The steep stairs are not ideal for travelers with mobility concerns, but the riverside setting is rewarding. Ferries between Tha Tien and Wat Arun are cheap and frequent during the day. Dress rules still apply because it is an active temple. After visiting, stay riverside for dinner or cross back to the old city before traffic gets heavier."
+  },
+  {
+    "id": "bangkok-food-001",
+    "destination": "Bangkok, Thailand",
+    "category": "food",
+    "content": "Bangkok street food is strongest where locals eat repeatedly, not where every menu is translated into five languages. Yaowarat Road in Chinatown is lively after dark, with seafood, noodles, roast chestnuts, Thai-Chinese desserts, and fruit stalls. Go with a small group so you can split dishes and keep moving. Many famous stalls have queues, but nearby alternatives are often excellent. Carry cash, tissues, and hand sanitizer. A generous street-food evening can cost USD 10 to 25 per person depending on seafood choices."
+  },
+  {
+    "id": "bangkok-food-002",
+    "destination": "Bangkok, Thailand",
+    "category": "food",
+    "content": "Boat noodles are a practical lunch near Victory Monument, where small bowls let you try several versions with pork, beef, herbs, and dark broth. Portions are intentionally small and inexpensive, so locals stack bowls at the table. Spice and offal can be adjusted if you ask, though the richest versions include liver or blood-thickened broth. Eat outside peak heat if possible, and order iced tea or chrysanthemum drink to balance the salt and chile. It is fast, casual, and better for adventurous eaters than picky groups."
+  },
+  {
+    "id": "bangkok-transport-001",
+    "destination": "Bangkok, Thailand",
+    "category": "transport",
+    "content": "Bangkok traffic can erase an itinerary, so combine BTS Skytrain, MRT, river boats, and short taxis instead of relying on cars all day. The BTS is clean and efficient for Sukhumvit, Silom, Siam, and Chatuchak, while river boats help with old-city sights. Tuk-tuks are fun for short hops but negotiate first and avoid suspiciously cheap sightseeing offers. Grab is useful, though pickups around malls can be confusing. During heavy rain, trains beat roads. Build each day around one or two connected areas."
+  },
+  {
+    "id": "bangkok-culture-001",
+    "destination": "Bangkok, Thailand",
+    "category": "culture",
+    "content": "Thai temple etiquette centers on modesty and calm. Remove shoes where indicated, never point feet toward Buddha images, and keep voices low inside prayer areas. Public displays of anger cause loss of face and rarely help resolve problems. The royal family is treated with deep respect, and careless jokes can be serious. A wai greeting is appreciated but not required in every transaction. In markets, bargain lightly and with a smile; if the price is already posted or food is involved, bargaining is usually inappropriate."
+  },
+  {
+    "id": "rome-attractions-001",
+    "destination": "Rome, Italy",
+    "category": "attractions",
+    "content": "The Colosseum is best booked with a timed ticket that includes the Roman Forum and Palatine Hill. Morning slots reduce heat, while late afternoon gives softer light on the ruins. Security lines are strict, and large bags are a bad idea. The Forum is not just an add-on; it needs at least 90 minutes and makes more sense with an audio guide or guidebook because signage is uneven. Carry water, wear sun protection, and use the public fountains outside rather than buying overpriced bottles nearby."
+  },
+  {
+    "id": "rome-attractions-002",
+    "destination": "Rome, Italy",
+    "category": "attractions",
+    "content": "The Pantheon is one of Rome's most efficient major sights: central, architecturally extraordinary, and manageable in under an hour with a timed ticket. The oculus is open to the sky, so rainy days can create a memorable view of water falling into the ancient interior. Dress respectfully because it is a church. Pair the visit with coffee at Sant'Eustachio or Tazza d'Oro, then walk to Piazza Navona or Campo de' Fiori. Early morning is calmer, while midday brings tour groups and school visits."
+  },
+  {
+    "id": "rome-food-001",
+    "destination": "Rome, Italy",
+    "category": "food",
+    "content": "Roman pasta is built around a few classics: carbonara, amatriciana, cacio e pepe, and gricia. The best versions are simple and peppery, not cream-heavy. Trattorias in Testaccio, Ostiense, and parts of San Giovanni can be better value than restaurants beside major monuments. Reserve dinner if you have a specific place in mind, because popular kitchens fill quickly. A pasta dish typically costs USD 12 to 20 in casual restaurants. Lunch can be easier than dinner for walk-ins."
+  },
+  {
+    "id": "rome-food-002",
+    "destination": "Rome, Italy",
+    "category": "food",
+    "content": "Pizza al taglio is Rome's practical snack meal, sold by weight and cut with scissors from rectangular trays. Point to the size you want, and the staff will weigh, heat, and price it. Good counters turn over slices quickly and have crisp, airy crusts rather than limp displays. Suppli, fried rice balls with tomato and mozzarella, are worth adding. This format is useful near markets, stations, and museum-heavy days when a long lunch would slow the itinerary. Budget roughly USD 5 to 12."
+  },
+  {
+    "id": "rome-transport-001",
+    "destination": "Rome, Italy",
+    "category": "transport",
+    "content": "Rome is walkable in the historic center but tiring on cobblestones, so combine walking with buses, trams, and the Metro. The Metro has only a few lines but is useful for the Colosseum, Vatican area, Termini, and Spanish Steps. Tap-and-go contactless payment works on many transit routes, but validate paper tickets if using them. Buses can be delayed by traffic and do not always announce stops clearly. Taxis should be official white cars with meters; confirm card acceptance before starting if you need it."
+  },
+  {
+    "id": "rome-culture-001",
+    "destination": "Rome, Italy",
+    "category": "culture",
+    "content": "Rome rewards slower pacing than its map suggests. Churches may close midday, restaurants may not serve dinner before 7pm, and summer heat makes afternoon breaks practical rather than lazy. Cover shoulders and knees for major churches, especially St. Peter's Basilica. Coffee is usually ordered and drunk at the bar for the lowest price; table service costs more in scenic piazzas. Public fountains marked nasone are safe for drinking water. Keep an eye on bags around Termini, crowded buses, and tourist-heavy squares."
+  },
+  {
+    "id": "dubai-attractions-001",
+    "destination": "Dubai, UAE",
+    "category": "attractions",
+    "content": "Burj Khalifa observation decks require advance booking for sunset slots, which cost more and sell out early. At the Top on levels 124 and 125 is enough for most travelers, while higher premium decks suit luxury budgets. Arrive through Dubai Mall and allow extra time because the walk from taxi or Metro to the entrance is long. The Dubai Fountain show outside is free and runs frequently in the evening. For photos, step away from the densest mall exit crowds and use the promenade around Burj Lake."
+  },
+  {
+    "id": "dubai-attractions-002",
+    "destination": "Dubai, UAE",
+    "category": "attractions",
+    "content": "Al Fahidi Historical Neighbourhood gives useful contrast to Dubai's towers, with restored wind-tower houses, small museums, courtyards, galleries, and cafes near Dubai Creek. Visit in the morning or late afternoon because midday heat can be punishing. Combine it with an abra ride across the creek to the spice and gold souks; the traditional boat crossing costs very little and is one of the city's best-value experiences. Bargaining is expected in souks, but compare prices first and do not feel pressured to enter every shop."
+  },
+  {
+    "id": "dubai-food-001",
+    "destination": "Dubai, UAE",
+    "category": "food",
+    "content": "Dubai's best everyday eating is often in older neighborhoods such as Deira, Bur Dubai, Karama, and Satwa rather than luxury malls. You can find Emirati machboos, Iranian kebabs, South Indian dosas, Pakistani grills, Filipino bakeries, and Lebanese cafeterias within short taxi rides. Portions are generous and prices are far lower than hotel restaurants. Ask about spice levels and check whether restaurants are family seating, counter service, or men-only in older cafeterias. A strong casual meal can cost USD 8 to 18."
+  },
+  {
+    "id": "dubai-food-002",
+    "destination": "Dubai, UAE",
+    "category": "food",
+    "content": "For Emirati food, look for dishes such as machboos, harees, balaleet, luqaimat, and Arabic coffee with dates. Restaurants around Al Fahidi and Jumeirah introduce these dishes in visitor-friendly settings, while cultural meal programs add context on hospitality and local customs. Lunch is often better value than dinner. During Ramadan, daytime eating rules and opening hours change, but iftar meals can be memorable when booked respectfully. Dress modestly in traditional neighborhoods and avoid treating local dining spaces as just photo backdrops."
+  },
+  {
+    "id": "dubai-transport-001",
+    "destination": "Dubai, UAE",
+    "category": "transport",
+    "content": "Dubai Metro is clean, affordable, and useful for the airport, Downtown, Dubai Marina, and major malls, but stations can be far from final destinations because blocks are large. A Nol card covers Metro, trams, buses, and some marine transport. Taxis are regulated and usually reliable; ride-hailing is convenient but can cost more. Traffic on Sheikh Zayed Road and around malls can spike in the evening. In summer, avoid long walks between transit and attractions, because heat and road design make distances feel much larger."
+  },
+  {
+    "id": "dubai-culture-001",
+    "destination": "Dubai, UAE",
+    "category": "culture",
+    "content": "Dubai is cosmopolitan but still shaped by UAE laws and Islamic customs. Swimwear belongs at pools and beaches, while malls, mosques, government areas, and older neighborhoods call for covered shoulders and knees. Public drunkenness, aggressive behavior, and disrespectful gestures can create legal trouble. Ask before photographing people, especially women and families. Friday prayer affects timing around mosques, and Ramadan changes dining norms. Visitors who balance modern leisure with basic modesty and courtesy usually find the city easy and welcoming."
+  },
+  {
+    "id": "london-attractions-001",
+    "destination": "London, UK",
+    "category": "attractions",
+    "content": "The British Museum is free to enter but still benefits from a focused route. The Rosetta Stone, Parthenon sculptures, Egyptian galleries, Assyrian reliefs, and Enlightenment Gallery can fill several hours. Weekday mornings are calmer, and special exhibitions require paid timed tickets. The museum is near Tottenham Court Road, Holborn, and Russell Square stations, but the surrounding streets are busy at lunch. Because collections have complex colonial histories, a guided tour or audio guide adds context beyond simply checking famous objects off a list."
+  },
+  {
+    "id": "london-attractions-002",
+    "destination": "London, UK",
+    "category": "attractions",
+    "content": "The Tower of London is strongest early in the day, when Crown Jewels queues are shortest and Yeoman Warder tours are easier to hear. Tickets are costly, so allow at least three hours for the White Tower, walls, ravens, execution history, and river views. Tower Hill Underground station is closest. Pair the visit with Tower Bridge, St Katharine Docks, or a Thames walk toward Borough Market. Weather changes quickly along the river, so bring a layer even when the morning forecast looks clear."
+  },
+  {
+    "id": "london-food-001",
+    "destination": "London, UK",
+    "category": "food",
+    "content": "Borough Market is crowded but useful for sampling London food culture in one compact area. Go before noon on weekdays for easier browsing, or accept weekend crowds as part of the atmosphere. Strong options include cheese toasties, oysters, sausage rolls, Ethiopian stews, paella pans, doughnuts, and specialty coffee. Prices are higher than neighborhood markets, so share items instead of buying full portions at every stall. The market is beside London Bridge station and pairs well with Southwark Cathedral, the river path, and Tate Modern."
+  },
+  {
+    "id": "london-food-002",
+    "destination": "London, UK",
+    "category": "food",
+    "content": "A good pub meal depends more on the kitchen than the age of the building. Look for pubs with a short seasonal menu, cask ales turning over quickly, and Sunday roast bookings filled by locals. Fish and chips should be crisp and fresh, not sitting under heat lamps. Order at the bar unless table service is clearly offered, and note your table number. In central London, expect USD 18 to 35 for a main dish. Historic pubs are atmospheric, but neighborhood pubs often give better value."
+  },
+  {
+    "id": "london-transport-001",
+    "destination": "London, UK",
+    "category": "transport",
+    "content": "London transit is easiest with contactless payment or Oyster, using the same card or device for every tap to get daily caps. Always tap out on Underground and rail; buses require only tapping in. The Tube is fast across town, but buses are better for sightseeing and short hops. Avoid peak commuter crush if traveling with luggage. Some stations have deep stairs or no lifts, so check step-free access. The Elizabeth line is especially useful for Heathrow, Paddington, Tottenham Court Road, Liverpool Street, and Canary Wharf."
+  },
+  {
+    "id": "london-culture-001",
+    "destination": "London, UK",
+    "category": "culture",
+    "content": "London works best when you group plans by neighborhood because travel times hide in transfers and station walks. Stand on the right on escalators, queue politely, and let passengers off first. Many museums are free, but donations and paid exhibitions support them. Weather can change several times in a day, so carry a compact umbrella or waterproof layer. Tipping is lighter than in the United States; check whether service charge is included before adding more. Book popular restaurants and West End shows ahead."
+  },
+  {
+    "id": "singapore-attractions-001",
+    "destination": "Singapore",
+    "category": "attractions",
+    "content": "Gardens by the Bay is best split between free outdoor areas and paid conservatories. The Supertree Grove is free, with evening light shows that draw crowds but are easy to enjoy from different angles. Flower Dome and Cloud Forest are air-conditioned and useful in midday heat or rain, though tickets add up for families. Bayfront MRT is the easiest access. Combine the gardens with Marina Bay Sands views, the waterfront promenade, or Satay by the Bay, but avoid trying to rush across the full area in humid weather."
+  },
+  {
+    "id": "singapore-attractions-002",
+    "destination": "Singapore",
+    "category": "attractions",
+    "content": "The National Gallery Singapore occupies the former Supreme Court and City Hall buildings and is one of the best indoor culture stops in the city. It focuses on Singaporean and Southeast Asian art, giving context that visitors miss if they only see Marina Bay. The building itself has strong architecture, rooftop views, and good air-conditioning for hot afternoons. City Hall MRT is nearby. Allow two to three hours, and check for free guided tours or late openings before planning dinner around the Civic District."
+  },
+  {
+    "id": "singapore-food-001",
+    "destination": "Singapore",
+    "category": "food",
+    "content": "Hawker centres are central to eating in Singapore. Maxwell Food Centre, Old Airport Road, Tiong Bahru Market, Chinatown Complex, and Tekka Centre each have different strengths. Bring tissues to reserve a seat only where this chope practice is accepted, carry a tray back after eating where required, and expect cash or local QR payment at older stalls. Chicken rice, laksa, char kway teow, rojak, satay, and kaya toast are practical starting points. A filling meal can cost USD 4 to 10."
+  },
+  {
+    "id": "singapore-food-002",
+    "destination": "Singapore",
+    "category": "food",
+    "content": "Kaya toast breakfast is a simple Singapore routine: charcoal-grilled or toasted bread with coconut jam and butter, soft-boiled eggs seasoned with soy sauce and white pepper, and kopi or teh. Chains such as Ya Kun and Toast Box are convenient, but older kopitiams have more character. It is affordable, quick, and works before museum or garden days. Learn basic coffee terms if you care about sweetness: kopi is coffee with condensed milk, kopi-o is black with sugar, and siew dai means less sweet."
+  },
+  {
+    "id": "singapore-transport-001",
+    "destination": "Singapore",
+    "category": "transport",
+    "content": "Singapore's MRT is clean, frequent, and usually the best way to move between neighborhoods. Contactless bank cards and transit cards work at gates, and station signage is clear in English. Trains are air-conditioned, but walks from stations can still be humid, so plan shade and water. Taxis and ride-hailing are reliable for late nights or rain, though prices rise during peak demand. Changi Airport connects easily by MRT or taxi. Avoid eating or drinking on trains, because fines are real and signs are enforced."
+  },
+  {
+    "id": "singapore-culture-001",
+    "destination": "Singapore",
+    "category": "culture",
+    "content": "Singapore is orderly, multilingual, and strict about rules that may feel casual elsewhere. Do not litter, smoke outside designated areas, or eat on public transport. In hawker centres, return trays where signs request it and be patient with queues at famous stalls. Dress is lightweight and casual, but temples and mosques still require modest clothing. Neighborhoods such as Kampong Glam, Chinatown, Little India, and Katong are lived cultural districts, not theme parks, so explore respectfully and support small businesses beyond photo stops."
+  },
+  {
+    "id": "sydney-attractions-001",
+    "destination": "Sydney, Australia",
+    "category": "attractions",
+    "content": "The Sydney Opera House is worth seeing both outside and through a guided tour if budget allows. Tours explain the engineering, performance spaces, and design compromises that casual photos miss. Book ahead during peak travel periods. The best free views come from the Opera House forecourt, Royal Botanic Garden paths, and across the water at Milsons Point. Pair the visit with Circular Quay, the Rocks, or a ferry ride rather than only taking a quick selfie. Sun can be harsh, so bring sunscreen even on breezy days."
+  },
+  {
+    "id": "sydney-attractions-002",
+    "destination": "Sydney, Australia",
+    "category": "attractions",
+    "content": "The Bondi to Coogee coastal walk is a classic Sydney half-day, with cliffs, ocean pools, beaches, and cafes along a roughly six-kilometre route. Start early to avoid heat and crowds, especially in summer. Wear real walking shoes or sturdy sandals, bring water, and use sunscreen. You can shorten the route at Bronte or Clovelly if traveling with children or limited time. Swimming depends on surf conditions; always stay between the flags at patrolled beaches. Buses connect both ends back toward the city."
+  },
+  {
+    "id": "sydney-food-001",
+    "destination": "Sydney, Australia",
+    "category": "food",
+    "content": "Sydney breakfasts and cafe meals are excellent but can be expensive, so choose neighborhoods carefully. Surry Hills, Newtown, Marrickville, and Bondi have strong coffee, pastries, avocado toast, eggs, and multicultural brunch menus. A cafe breakfast with coffee can cost USD 18 to 30. For better value, mix cafes with bakery stops and Asian food courts. Specialty coffee standards are high; flat whites are a local default. Weekend brunch queues are real, so go early or book where possible."
+  },
+  {
+    "id": "sydney-food-002",
+    "destination": "Sydney, Australia",
+    "category": "food",
+    "content": "For seafood, Sydney Fish Market offers oysters, prawns, sashimi, grilled fish, and takeaway platters, though it can feel crowded and touristy. Go earlier in the day for fresher displays and shorter lines. Confirm prices by weight before ordering, and consider sharing a platter outdoors if weather is good. For a calmer meal, neighborhood seafood restaurants near the coast may be more comfortable. Fish and chips after a beach walk is often better value than a formal waterfront dinner with a view surcharge."
+  },
+  {
+    "id": "sydney-transport-001",
+    "destination": "Sydney, Australia",
+    "category": "transport",
+    "content": "Sydney's Opal system works with contactless cards on trains, buses, light rail, and ferries. Ferries are not just transport; routes to Manly, Watsons Bay, and Taronga Zoo give some of the best harbor views. Trains are useful for airport access and longer cross-city trips, while buses cover beaches. Traffic can slow bus routes near Bondi and the CBD. Tap on and off correctly to avoid maximum fares. Build at least one ferry into the itinerary, ideally outside peak commuter times."
+  },
+  {
+    "id": "sydney-culture-001",
+    "destination": "Sydney, Australia",
+    "category": "culture",
+    "content": "Sydney life revolves around weather, beaches, and outdoor time, but safety rules matter. Swim only between the red and yellow flags, pay attention to lifeguards, and avoid rock fishing or cliff edges in rough conditions. Tipping is appreciated but not mandatory like in the United States; rounding up or adding 10 percent for good service is common. Sun protection is essential because UV can be extreme even when temperatures feel mild. Acknowledging Aboriginal history adds important context, especially around the harbor and museums."
+  },
+  {
+    "id": "tokyo-practical-001",
+    "destination": "Tokyo, Japan",
+    "category": "practical",
+    "content": "Tokyo rewards travelers who plan around neighborhoods rather than individual sights. Put Shinjuku, Harajuku, Shibuya, and Omotesando on one west-side day, and group Asakusa, Ueno, Akihabara, and Tokyo Station on an east-side day. Convenience stores are reliable for breakfast, ATM withdrawals, luggage forwarding forms, and late-night essentials. Coin lockers fill quickly at major stations by late morning, so use hotel luggage storage or Yamato counters when moving between cities. Many restaurants are tiny, so groups larger than four should book ahead or split up. Carry a small towel because public restrooms rarely provide hand dryers or paper towels, and keep a compact power bank for heavy map use."
+  },
+  {
+    "id": "paris-practical-001",
+    "destination": "Paris, France",
+    "category": "practical",
+    "content": "Paris is smoother when you book the highest-demand sights before arrival and leave flexible time for wandering. Reserve the Louvre, Eiffel Tower, Sainte-Chapelle, Catacombs, and popular restaurants as early as possible, especially from April through October. Keep valuables zipped and in front of you on the Metro, around Sacre-Coeur steps, and near major bridges where petition and bracelet scams appear. Public toilets can be scarce, so use museum, cafe, and department store stops strategically. Many small shops close Sunday or Monday, and restaurants may close between lunch and dinner. A daily plan with one major ticketed sight, one neighborhood walk, and one food anchor usually feels richer than racing across the city."
+  },
+  {
+    "id": "bali-practical-001",
+    "destination": "Bali, Indonesia",
+    "category": "practical",
+    "content": "Bali itineraries work best when split by base: Ubud for rice terraces, temples, and culture; Uluwatu for cliffs and beaches; Canggu or Seminyak for cafes, nightlife, and surf; and Sanur for calmer family pacing. Distances look short but traffic makes cross-island days slow, so avoid stacking Ubud, Uluwatu, and Canggu in one day. Carry cash in small rupiah notes for temple donations, parking, toilets, and waterfall access. Use reef-safe sunscreen, bring mosquito repellent, and check ocean conditions before swimming because currents can be strong. For early temple or waterfall visits, arrange a driver the night before and confirm pickup by WhatsApp."
+  },
+  {
+    "id": "nyc-practical-001",
+    "destination": "New York City, USA",
+    "category": "practical",
+    "content": "New York days are strongest when organized by borough or subway corridor. Pair Lower Manhattan with the Staten Island Ferry, Chinatown, and the Lower East Side; pair Central Park with the Met or Upper West Side museums; pair Williamsburg with Dumbo only if you allow bridge or ferry time. Book Broadway, comedy clubs, and observation decks ahead, but keep food plans flexible because neighborhood counters are often better than destination restaurants. Public bathrooms are easiest in museums, department stores, hotel lobbies, large parks, and some libraries. Always check weekend subway service before leaving, because maintenance reroutes can add 20 to 40 minutes. In winter, wind between avenues makes warm layers more important than the forecast suggests."
+  },
+  {
+    "id": "bangkok-practical-001",
+    "destination": "Bangkok, Thailand",
+    "category": "practical",
+    "content": "Bangkok planning should respect heat, traffic, and temple dress rules. Put outdoor temples and markets early, use air-conditioned malls or museums in the hottest afternoon hours, then return outside for evening food streets or river views. Carry a light layer or scarf for shoulders and a small umbrella for sudden rain. Cash remains useful for street food, ferries, small shops, and markets, though malls and hotels take cards easily. Avoid any stranger-led itinerary that starts with a claim that a famous temple is closed. If using taxis, ask for the meter before entering or use Grab. Staying near BTS, MRT, or the river saves more time than choosing a slightly cheaper hotel far from transit."
+  },
+  {
+    "id": "rome-practical-001",
+    "destination": "Rome, Italy",
+    "category": "practical",
+    "content": "Rome is dense but physically demanding, so build recovery into each day. Cobblestones, stairs, summer heat, and long museum corridors make comfortable shoes more valuable than stylish ones. Book the Colosseum, Vatican Museums, Borghese Gallery, and popular underground tours ahead because same-day tickets often disappear. Many churches are free but close at midday, and dress codes are enforced more often at major basilicas. Keep a reusable bottle because public fountains are common and safe. Restaurants near major monuments can be mediocre; walk ten minutes into side streets or residential neighborhoods before choosing dinner. Taxis are best from official ranks or apps, and drivers should use the meter inside the city."
+  },
+  {
+    "id": "dubai-practical-001",
+    "destination": "Dubai, UAE",
+    "category": "practical",
+    "content": "Dubai planning depends heavily on season. From May through September, outdoor sightseeing should happen early morning or after sunset, with malls, museums, hotel pools, and indoor attractions carrying the middle of the day. Distances between districts are larger than maps imply, so combine Downtown and DIFC, Dubai Marina and JBR, or Deira and Bur Dubai rather than crossing the city repeatedly. Book desert safaris, Burj Khalifa sunset slots, and fine dining in advance. Carry a light layer because indoor air-conditioning can be cold. Alcohol is mostly tied to licensed venues, and public drunkenness is risky. Modest clothing is expected in mosques, older neighborhoods, and government-facing spaces."
+  },
+  {
+    "id": "london-practical-001",
+    "destination": "London, UK",
+    "category": "practical",
+    "content": "London itineraries should account for station walks, line changes, and weather shifts. A route that looks like 20 minutes on the Tube can become 35 minutes once you include walking through large stations, escalators, and crowded platforms. Book high-demand paid sights such as Westminster Abbey, Churchill War Rooms, Sky Garden, and theatre tickets ahead, but leave free museums flexible because they absorb rainy hours well. Carry a waterproof layer instead of relying only on an umbrella, especially near the river. Contactless payment is easiest for transit, but use the same card or device every time. Neighborhood grouping is the secret: do Westminster and South Bank together, then save Camden, Hampstead, or Greenwich for separate half-days."
+  },
+  {
+    "id": "singapore-practical-001",
+    "destination": "Singapore",
+    "category": "practical",
+    "content": "Singapore is compact but humidity makes pacing important. Plan one outdoor block early, an indoor museum, mall, or conservatory in the afternoon, and hawker food or skyline views after dark. Sudden rain is common, so keep a small umbrella and avoid overloading beach or garden days with tight reservations. Tap water is safe, public transport is excellent, and Changi Airport is reliable enough for same-day city visits if luggage is stored. Fines for littering, smoking outside approved areas, and eating on trains are real, so follow posted rules. Hotels near MRT stations are worth paying slightly more for because taxis can surge during rain and peak demand."
+  },
+  {
+    "id": "sydney-practical-001",
+    "destination": "Sydney, Australia",
+    "category": "practical",
+    "content": "Sydney is best planned around harbor, beach, and inner-neighborhood clusters. Put Circular Quay, the Rocks, Opera House, and Royal Botanic Garden together; give Bondi to Coogee its own half-day; and use ferries for Manly or Watsons Bay when weather is clear. UV levels can be high even on mild days, so sunscreen, sunglasses, and a hat are practical rather than optional. Beach swims should stay between the red and yellow flags, and coastal walks need water because exposed sections have little shade. Restaurant and cafe prices are high, so mix sit-down meals with bakeries, food courts, and fish-and-chip stops. Contactless payment works across most transit, but always tap off where required."
+  }
+]
